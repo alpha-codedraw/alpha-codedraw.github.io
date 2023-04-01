@@ -46,7 +46,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   경제 쉽게 이해하기 | 최신 경제 이슈, 주식, 재테크, 금융상품을 쉽게 이해하는 쉬운 경제 뉴스. 경제 초보도 쉽게 따라올 수 있습니다.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://alpha-codedraw.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://master-woo.com" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "/assets/images/favicon/favicon.ico" # the favicon for your site
 
 # Yat date format
